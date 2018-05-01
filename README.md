@@ -11,4 +11,4 @@ Devin Arnold
 Matthew Coker
 
 ## Project Description
-We sought out to prove that successful businesses have more in common than just good service.
+We sought out to prove that successful businesses have more in common than just good service. 
