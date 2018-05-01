@@ -2,7 +2,7 @@
 
 Team 18 CSCI4502_Group_Project Team 
 
-https://www.screencast.com/t/x9kemBofvg6x
+Video: https://www.screencast.com/t/x9kemBofvg6x
 
 ## Team Members
 
