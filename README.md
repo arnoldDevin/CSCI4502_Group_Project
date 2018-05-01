@@ -1,4 +1,7 @@
-# Yelp Us! Team 18 CSCI4502_Group_Project Team 
+# Yelp Us! 
+
+Team 18 CSCI4502_Group_Project Team 
+
 ## Team Members
 
 Taylor Gunter
